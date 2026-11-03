@@ -1,6 +1,8 @@
 Fix missing information
 =======================
 
+**Last checked:** |last_checked| against Agentplace's public documentation.
+
 Use this guide when your agent leaves out items you can see on the website, or says it cannot find something that exists.
 
 Before you start

@@ -1,6 +1,8 @@
 Publish your agent and check the live link
 ==========================================
 
+**Last checked:** |last_checked| against Agentplace's public documentation.
+
 Use this guide when you are ready to let real visitors use the agent.
 
 Steps

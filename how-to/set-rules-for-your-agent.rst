@@ -1,6 +1,8 @@
 Set rules for your agent
 ========================
 
+**Last checked:** |last_checked| against Agentplace's public documentation.
+
 Use this guide to give your agent boundaries so it stays honest, stays on topic and knows when to stop.
 
 Steps

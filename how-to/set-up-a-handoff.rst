@@ -1,6 +1,8 @@
 Set up a handoff to a person
 ============================
 
+**Last checked:** |last_checked| against Agentplace's public documentation.
+
 Use this guide when your agent should pass a case to your team instead of answering it.
 
 Before you start

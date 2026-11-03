@@ -1,6 +1,8 @@
 Connect a website and check what the Builder read
 =================================================
 
+**Last checked:** |last_checked| against Agentplace's public documentation.
+
 Use this guide when you give the Builder a website address and want to know how much of the site it actually used.
 
 Before you start

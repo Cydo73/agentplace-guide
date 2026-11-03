@@ -1,6 +1,8 @@
 Build and publish your first Agentplace agent
 =============================================
 
+**Last checked:** |last_checked| against Agentplace's public documentation.
+
 By the end of this tutorial you will have a published agent with its own link. The example is a travel companion that helps a traveler plan a trip and answers questions about bookings.
 
 The example uses public information from Tubayo, an African travel marketplace. It is an independent concept, not an official Tubayo product. You can swap in any business you know well.

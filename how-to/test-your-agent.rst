@@ -1,6 +1,8 @@
 Test your agent
 ===============
 
+**Last checked:** |last_checked| against Agentplace's public documentation.
+
 Use this guide before you publish, and again after every change to your knowledge or rules.
 
 Steps
